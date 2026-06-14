@@ -6,7 +6,7 @@ A recipe is a written-down version of what "good" looks like to me, for a partic
 
 The bet: as models get good and interchangeable, the thing worth owning isn't the model or the prompt. It's the recipe.
 
-I've found these are also a genuinely good way to *share* a custom capability with another person, hand them the recipe, not a black box.
+I've found these are also a genuinely good way to *share* a custom capability with another person, hand them the recipe, not the full code. Let their agent take it from there.
 
 ## Recipes
 
