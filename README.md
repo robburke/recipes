@@ -32,7 +32,7 @@ Other people have arrived at similar ideas from different directions. A few wort
 - [Agent Skills](https://agentskills.io/home): a folder with a `SKILL.md` that an agent loads when a task calls for it. An open standard since December 2025, supported across many agent tools. Written for an agent to execute.
 - [AGENTS.md](https://agents.md/): a plain markdown "README for agents" that tells coding agents how to work in one repository.
 - [Fabric patterns](https://github.com/danielmiessler/fabric/tree/main/data/patterns): a large library of reusable markdown prompts, one per task.
-- [goose recipes](https://block.github.io/goose/docs/guides/recipes/storing-recipes/): the same word for a different thing, YAML configuration that runs a workflow inside the goose agent.
+- [goose recipes](https://goose-docs.ai/docs/guides/recipes/storing-recipes/): the same word for a different thing, YAML configuration that runs a workflow inside the goose agent.
 
 A recipe here sits closer to a written-down practice than to any of these: plain markdown, meant to be read by someone's AI and applied to that person's situation.
 
