@@ -43,6 +43,8 @@ A recipe here sits closer to a written-down practice than to any of these: plain
 
 More to come.
 
+Also here: **[try-it/](try-it/)**, starter prompts from the side quests, grouped by what they help with. They're prompts rather than recipes: a first step you can take in a few minutes.
+
 ---
 
 Written up over at [robburke.net/side-quests](https://robburke.net/side-quests/).

@@ -72,5 +72,5 @@ Then suggest one size, and at most three principles to start with.
 
 ## Evidence
 
-- The write-up: [Travel with a Fren](https://robburke.net/side-quests/travel-with-a-fren/) on robburke.net.
+- The write-up: [AI-Assisted Travel](https://robburke.net/side-quests/ai-assisted-travel/) on robburke.net.
 - The souvenir built afterwards: [Japan by Rail, a field notebook](https://robburke.net/japan/rail/).
