@@ -2,7 +2,7 @@
 
 Starter prompts for habits that make AI help more reliable. Copy one into your AI assistant and fill in the brackets.
 
-Last updated September 2026.
+Last updated October 2026.
 
 ## Get a second opinion on a change
 
@@ -33,3 +33,13 @@ Here are my practice exam results for [exam name], pasted exactly as the exam sh
 ```
 
 **A good result:** review sessions aimed at what you got wrong, and a cheat sheet short enough to print.
+
+## Audit your skills or system prompts for dead scaffolding
+
+From [Bitter Lesson, 2026 Vintage](https://robburke.net/side-quests/bitter-lesson-2026-vintage/).
+
+```text
+Review every instruction file in [folder]. For each rule, classify it as one of three things: a COMPENSATION (it exists because a model could not do X unaided), a PREFERENCE (it exists because I want X done this way), or a SCAR (a preference with a dated incident behind it). Preferences and scars stay. For each compensation, do not tell me whether a current model still needs it. Instead, write me a two-minute test: a representative request I can run twice, once with the rule in front of the model and once with it removed, and the observable difference I should look for. Then list the stale facts and the duplicated rules separately, with where each one's rightful home is. Recommend nothing be deleted until its home has been read back.
+```
+
+**A good result:** a list of tests rather than opinions, and at least one surprise when you run three of them. Expect the model to be wrong about its own needs in both directions.

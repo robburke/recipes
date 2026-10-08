@@ -4,7 +4,7 @@ Starter prompts from the side quests on [robburke.net](https://robburke.net/side
 
 The rest of this repo argues that prompts are disposable and recipes are more durable. The files here are prompts anyway: each is a first step you can take in a few minutes, with a link to the side quest it came from. Would love to hear how these work for you, and any upgrades you'd suggest: [open an issue](https://github.com/robburke/recipes/issues).
 
-Last updated September 2026. Models change quickly, so expect some of these to need a nudge.
+Last updated October 2026. Models change quickly, so expect some of these to need a nudge.
 
 - **[photography/](photography/)**: teach the AI your own editing taste, brief an edit, and plan a shoot.
 - **[resurrecting-old-tech/](resurrecting-old-tech/)**: bring old software, websites and devices back to life.
