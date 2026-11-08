@@ -2,7 +2,7 @@
 
 Starter prompts for lineups, paperwork and other household jobs. Copy one into your AI assistant and fill in the brackets. None of them needs a login, an account number or a real figure.
 
-Last updated September 2026.
+Last updated November 2026.
 
 ## Make a fair team rotation
 
@@ -33,3 +33,13 @@ I ride [two or three] bikes, and my rides land in [Strava or Garmin Connect] wit
 ```
 
 **A good result:** a few plain rules and a score for how many past rides they get right, before anything touches your accounts.
+
+## Draw the curve of a thrown toy
+
+From [Literal Curveballs](https://robburke.net/side-quests/literal-curveballs/). The full tool and recipe are in [throw-trails](https://github.com/robburke/throw-trails); this is the one-launch version.
+
+```text
+Here is a short video of a red object being thrown past a phone that was propped still. Find the object in each frame by its colour and give me its centre per frame as a table of frame number, x and y. Leave a frame blank if the object is hidden; do not guess where it went. Then draw the path you found on the first frame, thin where it starts and thicker towards the end, and tell me which frames you were least sure about so I can check them.
+```
+
+**A good result:** one picture with a curve you can see, a short list of frames to double-check, and no dots drawn where the camera did not see the object. Film across the frame rather than towards the camera, and check a few frames at full size for a sharp object before you start.

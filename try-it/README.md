@@ -10,6 +10,6 @@ Last updated October 2026. Models change quickly, so expect some of these to nee
 - **[resurrecting-old-tech/](resurrecting-old-tech/)**: bring old software, websites and devices back to life.
 - **[build-a-first-version/](build-a-first-version/)**: get a working first version of a small idea.
 - **[working-with-agents/](working-with-agents/)**: habits that make AI help more reliable.
-- **[home-and-family/](home-and-family/)**: lineups, paperwork and other household jobs.
+- **[home-and-family/](home-and-family/)**: lineups, paperwork, household jobs, and drawing the curve of a thrown toy with the kids.
 
 For planning a trip, the [family trip planning recipe](../family-trip-planning/) goes further than a prompt.
